@@ -1,5 +1,5 @@
 ---
-title: unit1
+title: Unit 1: Stoichiometry
 layout: default
 nav_order: 2
 ---
