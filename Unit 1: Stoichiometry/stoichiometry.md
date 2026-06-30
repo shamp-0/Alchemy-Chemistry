@@ -1,7 +1,8 @@
 ---
 title: Stoichiometry
 layout: default
-nav_order: 2
+parent: unit1
+nav_order: 1
 ---
 
 In-lecture Examples
