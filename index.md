@@ -7,18 +7,18 @@ Welcome! This repository hosts a series of original chemistry handouts to go alo
 
 The following is a rough guide to the order in which you should be covering the videos/handouts:
 
-Stoichiometry
-Atomic
-Molecular
-Kinetics 1-5
-Thermo 1-3
-Solid-State
-Liquids
-Solutions 1-2
-Equilibrium 1-5
-Nuclear 1-2
-Electro 1-4
-CFT 1-2
-Titrations 1-2
-Error Analysis
-Inorganic 1-4
+Stoichiometry  
+Atomic  
+Molecular  
+Kinetics 1-5  
+Thermo 1-3  
+Solid-State  
+Liquids  
+Solutions 1-2  
+Equilibrium 1-5  
+Nuclear 1-2  
+Electro 1-4  
+CFT 1-2  
+Titrations 1-2  
+Error Analysis  
+Inorganic 1-4  
